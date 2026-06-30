@@ -1,3 +1,7 @@
 uv.lock
 pyproject.toml
 .python-version
+
+# Large SUSEP base files (exceed GitHub 100MB limit)
+analise_mkt_sizing/bases_susep/SES_UF2.csv
+analise_mkt_sizing/bases_susep/Ses_seguros.csv
